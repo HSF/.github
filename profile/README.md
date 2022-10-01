@@ -1,4 +1,4 @@
-![Twitter Follow](https://img.shields.io/twitter/follow/hepsoftfound?style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/hepsoftfound?style=social)](https://twitter.com/hepsoftfound)
 
 # Welcome to the HEP Software Foundation 🤗
 
